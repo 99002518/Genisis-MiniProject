@@ -6,6 +6,12 @@ The credit account is one in which a person may/ or may not have sufficient mone
 
 ## Individual contribution
 ### 99002518:
+Basic UML structure design. 
+Understanding the implementation of the project.
+Working on the development of code. 
 
 ### 99002583: 
+Test case and testing analysis.
+Working on the development of code .
+
   
