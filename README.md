@@ -17,3 +17,4 @@ Test case and testing analysis.
 
   
 ![cppcheck-action](https://github.com/99002518/Genisis-MiniProject/workflows/cppcheck-action/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cb07f2a87d2f4d46b1f6a1af3c0c279d)](https://www.codacy.com/gh/99002518/Genisis-MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002518/Genisis-MiniProject&amp;utm_campaign=Badge_Grade)
